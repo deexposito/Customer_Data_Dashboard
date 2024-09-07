@@ -1,5 +1,7 @@
 # **Churn Detective: Diagnosing Customer Turnover**
 
+![Project Banner](data/Customer-churn.jpg)
+
 ## **Project Overview**
 
 Customer churn is a critical metric for any business, especially in the highly competitive telecommunications industry. Understanding why customers leave and identifying the factors contributing to churn can help companies develop strategies to retain their customers, thereby improving profitability and customer satisfaction.
